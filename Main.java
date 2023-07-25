@@ -1,4 +1,4 @@
-package HotelManagSys;
+package HotelManagement;
 
 import java.io.File;
 import java.io.FileInputStream;
