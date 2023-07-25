@@ -1,7 +1,7 @@
 
-# Hotel Management System
+# Hotel Management 
 
-The Hotel Management System is a Java-based console application that allows users to manage hotel room bookings, room availability, and food orders.
+The Hotel Management  is a Java-based console application that allows users to manage hotel room bookings, room availability, and food orders.
 
 ## Features
 
@@ -57,7 +57,7 @@ The application uses serialization to store the hotel room data. The data is sav
 
 ## Disclaimer
 
-This application is a simple demonstration of a Hotel Management System and may not be suitable for production use. It serves as a learning exercise for Java programming and file handling with serialization.
+This application is a simple demonstration of a Hotel Management  and may not be suitable for production use. It serves as a learning exercise for Java programming and file handling with serialization.
 
 ## Author
 
